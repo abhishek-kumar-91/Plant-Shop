@@ -41,7 +41,7 @@ include 'includes/check-if-added.php';
  <div class="container pt-3">
         <div class="row text-center ">
             <div class="col-6 col-md-3 py-3 box">
-                <a href="products.php#watch"> <img src="images/pot1.jpg" class="img-fluid " alt="" style="border-radius:0.5rem">
+                <a href="pots.php"> <img src="images/pot1.jpg" class="img-fluid " alt="" style="border-radius:0.5rem">
                 <!-- https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fm=jpg&w=400&fit=max-->
                     <div class="h5 pt-3 font-weight-bolder">
                       POTS
@@ -49,7 +49,7 @@ include 'includes/check-if-added.php';
                  </a>
              </div>
             <div class="col-6 col-md-3 py-3 box" >
-                <a href="products.php#shirt"  >
+                <a href="indoors.php"  >
                   <img src="images/indoor1.jpg" class="img-fluid zoom" alt="" style="border-radius:0.5rem" >
                      <div class="h5 pt-3 font-weight-bolder">
                         Indoor Plants
@@ -57,7 +57,7 @@ include 'includes/check-if-added.php';
                   </a>
              </div>
             <div class="col-6 col-md-3 py-3 box">
-                <a href="products.php#shoes">
+                <a href="outdoors.php">
                  <img src="images/outdoor1.jpg" class="img-fluid   " alt="" style="border-radius:0.5rem">
                 <div class="h5 pt-3 font-weight-bolder">
                     Outdoor Plants
@@ -65,7 +65,7 @@ include 'includes/check-if-added.php';
              </a>
              </div>
             <div class="col-6 col-md-3 py-3 box">
-                <a href="products.php#headphones">
+                <a href="others.php">
                  <img src="images/other1.jpg" class="img-fluid  " alt="" style="border-radius:0.5rem">
                  <div class="h5 pt-3 font-weight-bolder">
                     Others

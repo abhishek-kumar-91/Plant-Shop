@@ -75,3 +75,7 @@ h6 {
     scale: 1.1;
     background-color: crimson;
 }
+
+.flexBox{
+    display: flex;
+}

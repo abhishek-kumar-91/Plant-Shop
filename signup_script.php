@@ -23,14 +23,30 @@ if ($num != 0) {
     $m = "Email Already Exists";
     header('location: index.php?error=' . $m);
 
+
 } else {
     $quer = "INSERT INTO users(email_id,first_name,last_name,password) values('$email','$first','$last','$pass')";
     mysqli_query($con, $quer);
 
-    echo "New record has id: " . mysqli_insert_id($con);
     $user_id = mysqli_insert_id($con);
     $_SESSION['email'] = $email;
     $_SESSION['user_id'] = $user_id;
+
+    // Call the header() function before any output
     header('location:products.php');
+
+    // Move the echo statement below the header() function call
+    echo "New record has id: " . mysqli_insert_id($con);
 }
-?>
+
+// } else {
+//     $quer = "INSERT INTO users(email_id,first_name,last_name,password) values('$email','$first','$last','$pass')";
+//     mysqli_query($con, $quer);
+
+//     echo "New record has id: " . mysqli_insert_id($con);
+//     $user_id = mysqli_insert_id($con);
+//     $_SESSION['email'] = $email;
+//     $_SESSION['user_id'] = $user_id;
+//     header('location:products.php');
+// }
+// ?>

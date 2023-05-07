@@ -14,10 +14,10 @@
                                Products
                             </a>
                                <div class="dropdown-menu">
-                                   <a href="products.php#pots" class="dropdown-item">Pots</a>
-                                   <a href="products.php#indoor" class="dropdown-item">Indoor Plants</a>
-                                   <a href="products.php#outdoor" class="dropdown-item">Outdoor Plants</a>
-                                   <a href="products.php#others" class="dropdown-item">Others</a>
+                                   <a href="pots.php" class="dropdown-item">Pots</a>
+                                   <a href="indoors.php" class="dropdown-item">Indoor Plants</a>
+                                   <a href="outdoors.php" class="dropdown-item">Outdoor Plants</a>
+                                   <a href="others.php" class="dropdown-item">Others</a>
                                </div>
                            
                        </li>

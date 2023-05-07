@@ -23,42 +23,25 @@ session_start();
         include 'includes/header_menu.php';
     ?>
   <div>
-    <div class="container mt-5 ">
+    <div class="container mt-5 flexBox">
       <div class="row justify-content-around">
         <div class="col-md-5 mt-3">
           <h3 class="text-warning pt-3 title">Who We Are ?</h3>
           <hr />
+          
           <img
             src="https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&h=400&q=80"
             class="img-fluid d-block rounded mx-auto image-thumbnail">
-          <p class="mt-2">Plant Paradise is a wonderful shop that specializes in providing a wide range of indoor and outdoor plants as well as beautiful pots to showcase them in. The shop is a true haven for plant lovers, with its vibrant greenery and calming atmosphere.
+          <p class="mt-2">Plant Paradise is a wonderful shop that specializes in providing a wide range of indoor and outdoor plants as well 
+            as beautiful pots to showcase them in. The shop is a true haven for plant lovers, with its vibrant greenery and calming atmosphere.
 
-When you step into Plant Paradise, you are greeted by an array of lush foliage that immediately transports you to a serene natural oasis. The shop carries an impressive selection of plants, from delicate ferns to hardy succulents, all carefully curated and sourced for their beauty and quality.
+            When you step into Plant Paradise, you are greeted by an array of lush foliage that immediately transports you to a serene natural oasis. The shop 
+            carries an impressive selection of plants, from delicate ferns to hardy succulents, all carefully curated and sourced for their beauty and quality.
 
-In addition to their diverse plant selection, Plant Paradise also offers an equally impressive collection of pots in various sizes, colors, and styles, allowing customers to find the perfect match for their plants and home decor. From rustic terracotta to sleek ceramic, there is a pot for every taste and preference.
-
-The staff at Plant Paradise are knowledgeable and passionate about their products, and are always happy to provide advice and guidance on plant care and maintenance. Whether you are a seasoned plant enthusiast or a newcomer to the world of greenery, Plant Paradise is the perfect place to find inspiration and take home a little piece of nature to brighten up your living space.</p>
+            .</p>
+             
         </div>
-        <div class="col-md-5 mt-3">
-          <span class="text-warning pt-3">
-            <h1 class="title">LIVE SUPPORT</h1>
-            <h3>24 hours|7 days a week| 365 days a year Live Technical Support</h3>
-          </span>
-          <hr>
-          <p>It is a long established fact that a reader will be distracted by the readable content of a page when
-            looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-            letters. There are many variations of passages of Lorel Ipsum available, but the majority have suffered
-            alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-            If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing
-            hidden in the middle of text.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat nam ducimus a illum, at voluptate, iusto
-            eos tempora in quam exercitationem officia autem maxime deserunt. Reprehenderit necessitatibus sequi in
-            fugit? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, facilis. Reiciendis dicta fuga esse
-            at excepturi inventore perferendis? Consequatur dicta blanditiis, magnam consequuntur possimus excepturi
-            eaque neque nulla libero temporibus!
-          </p>
-
-        </div>
+       
       </div>
     </div>
   </div>
