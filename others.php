@@ -32,7 +32,7 @@ include 'includes/check-if-added.php';
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Products</li>
+                <li class="breadcrumb-item active" aria-current="page">Others</li>
             </ol>
         </nav>
         <!--breadcrumb end-->
@@ -130,7 +130,7 @@ include 'includes/check-if-added.php';
 
                     <div class="col-md-3 col-6 py-3" >
                         <div class="card box">
-                            <img src="images/other11.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other31.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Roses</h6>
                                 <h6>Price :Rs 50</h6>
@@ -152,7 +152,7 @@ include 'includes/check-if-added.php';
                     </div>
                     <div class="col-md-3 col-6 py-3">
                         <div class="card box">
-                            <img src="images/other12.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other32.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Sunflowers</h6>
                                 <h6>Price :Rs 45</h6>
@@ -174,7 +174,7 @@ include 'includes/check-if-added.php';
                     </div>
                     <div class="col-md-3 col-6 py-3">
                         <div class="card box">
-                            <img src="images/other13.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other33.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Tulips</h6>
                                 <h6>Price :Rs 10</h6>
@@ -196,7 +196,7 @@ include 'includes/check-if-added.php';
                     </div>
                     <div class="col-md-3 col-6 py-3">
                         <div class="card box">
-                            <img src="images/other14.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other34.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Lilies</h6>
                                 <h6>Price :Rs 15</h6>
@@ -219,7 +219,7 @@ include 'includes/check-if-added.php';
 
                     <div class="col-md-3 col-6 py-3" >
                         <div class="card box">
-                            <img src="images/other11.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other41.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Roses</h6>
                                 <h6>Price :Rs 50</h6>
@@ -241,7 +241,7 @@ include 'includes/check-if-added.php';
                     </div>
                     <div class="col-md-3 col-6 py-3">
                         <div class="card box">
-                            <img src="images/other12.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other42.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Sunflowers</h6>
                                 <h6>Price :Rs 45</h6>
@@ -263,7 +263,7 @@ include 'includes/check-if-added.php';
                     </div>
                     <div class="col-md-3 col-6 py-3">
                         <div class="card box">
-                            <img src="images/other13.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other43.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Tulips</h6>
                                 <h6>Price :Rs 10</h6>
@@ -285,7 +285,7 @@ include 'includes/check-if-added.php';
                     </div>
                     <div class="col-md-3 col-6 py-3">
                         <div class="card box">
-                            <img src="images/other14.jpg" alt="" class="img-fluid pb-1">
+                            <img src="images/other44.jpg" alt="" class="img-fluid pb-1">
                             <div class="figure-caption">
                                 <h6>Lilies</h6>
                                 <h6>Price :Rs 15</h6>

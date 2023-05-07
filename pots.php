@@ -32,7 +32,7 @@ include 'includes/check-if-added.php';
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Products</li>
+                <li class="breadcrumb-item active" aria-current="page">Pots</li>
             </ol>
         </nav>
         <!--breadcrumb end-->
@@ -105,21 +105,21 @@ include 'includes/check-if-added.php';
                 </div>
             </div>
         </div>
-        <div class="col-md-3 col-6 py-2">
+       <div class="col-md-3 col-6 py-2">
             <div class="card box">
-                <img src="images/pots4.jpg" alt="" class="img-fluid pb-1">
+                <img src="images/pots3.jpg" alt="" class="img-fluid pb-1">
                 <div class="figure-caption">
-                    <h6>Self-watering pots</h6>
-                    <h6>Price :Rs 180</h6>
+                    <h6>Hanging baskets</h6>
+                    <h6>Price :Rs 350</h6>
                     <?php if (!isset($_SESSION['email'])) {?>
                     <p><a href="index.php#login" role="button" class="btn btn-warning  text-white button">Add To Cart</a></p>
                     <?php
                     } else {
-                        if (check_if_added_to_cart(4)) {
+                        if (check_if_added_to_cart(3)) {
                         echo '<p><a href="#" class="btn btn-warning  text-white" disabled>Added to cart</a></p>';
                         } else {
                         ?>
-                        </p><a href="cart-add.php?id=4" name="add" value="add" class="btn btn-warning  text-white button">Add to cart</a></p>
+                        <p><a href="cart-add.php?id=3" name="add" value="add" class="btn btn-warning  text-white button">Add to cart</a></p>
                         <?php
                         }
                     }
@@ -195,21 +195,21 @@ include 'includes/check-if-added.php';
                 </div>
             </div>
         </div>
-        <div class="col-md-3 col-6 py-2">
+       <div class="col-md-3 col-6 py-2">
             <div class="card box">
-                <img src="images/pots4.jpg" alt="" class="img-fluid pb-1">
+                <img src="images/pots3.jpg" alt="" class="img-fluid pb-1">
                 <div class="figure-caption">
-                    <h6>Self-watering pots</h6>
-                    <h6>Price :Rs 180</h6>
+                    <h6>Hanging baskets</h6>
+                    <h6>Price :Rs 350</h6>
                     <?php if (!isset($_SESSION['email'])) {?>
                     <p><a href="index.php#login" role="button" class="btn btn-warning  text-white button">Add To Cart</a></p>
                     <?php
                     } else {
-                        if (check_if_added_to_cart(4)) {
+                        if (check_if_added_to_cart(3)) {
                         echo '<p><a href="#" class="btn btn-warning  text-white" disabled>Added to cart</a></p>';
                         } else {
                         ?>
-                        </p><a href="cart-add.php?id=4" name="add" value="add" class="btn btn-warning  text-white button">Add to cart</a></p>
+                        <p><a href="cart-add.php?id=3" name="add" value="add" class="btn btn-warning  text-white button">Add to cart</a></p>
                         <?php
                         }
                     }
@@ -288,19 +288,19 @@ include 'includes/check-if-added.php';
         </div>
         <div class="col-md-3 col-6 py-2">
             <div class="card box">
-                <img src="images/pots4.jpg" alt="" class="img-fluid pb-1">
+                <img src="images/pots3.jpg" alt="" class="img-fluid pb-1">
                 <div class="figure-caption">
-                    <h6>Self-watering pots</h6>
-                    <h6>Price :Rs 180</h6>
+                    <h6>Hanging baskets</h6>
+                    <h6>Price :Rs 350</h6>
                     <?php if (!isset($_SESSION['email'])) {?>
                     <p><a href="index.php#login" role="button" class="btn btn-warning  text-white button">Add To Cart</a></p>
                     <?php
                     } else {
-                        if (check_if_added_to_cart(4)) {
+                        if (check_if_added_to_cart(3)) {
                         echo '<p><a href="#" class="btn btn-warning  text-white" disabled>Added to cart</a></p>';
                         } else {
                         ?>
-                        </p><a href="cart-add.php?id=4" name="add" value="add" class="btn btn-warning  text-white button">Add to cart</a></p>
+                        <p><a href="cart-add.php?id=3" name="add" value="add" class="btn btn-warning  text-white button">Add to cart</a></p>
                         <?php
                         }
                     }

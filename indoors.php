@@ -32,7 +32,7 @@ include 'includes/check-if-added.php';
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Products</li>
+                <li class="breadcrumb-item active" aria-current="page">Indoor Plants</li>
             </ol>
         </nav>
         <!--breadcrumb end-->
@@ -131,7 +131,7 @@ include 'includes/check-if-added.php';
 
             <div class="col-md-3 col-6 py-3" >
                 <div class="card box">
-                    <img src="images/indoors1.jpg" alt="" class="img-fluid pb-1"  >
+                    <img src="images/indoors11.jpeg" alt="" class="img-fluid pb-1"  >
                     <div class="figure-caption">
                     <h6>Sansevieria</h6>
                     <h6>Price :Rs 1800</h6>
@@ -153,7 +153,7 @@ include 'includes/check-if-added.php';
             </div>
             <div class="col-md-3 col-6 py-3">
                 <div class="card box">
-                    <img src="images/indoors2.jpg" alt="" class="img-fluid pb-1" >
+                    <img src="images/indoors12.jpg" alt="" class="img-fluid pb-1" >
                     <div class="figure-caption">
                     <h6>Epipremnum aureum</h6>
                     <h6>Price :Rs 2500</h6>
@@ -175,7 +175,7 @@ include 'includes/check-if-added.php';
             </div>
             <div class="col-md-3 col-6 py-3">
                 <div class="card box">
-                    <img src="images/indoors3.jpg" alt="" class="img-fluid pb-1">
+                    <img src="images/indoors13.jpg" alt="" class="img-fluid pb-1">
                     <div class="figure-caption">
                         <h6>Chlorophytum comosum</h6>
                         <h6>Price :Rs 500</h6>
@@ -197,7 +197,7 @@ include 'includes/check-if-added.php';
             </div>
             <div class="col-md-3 col-6 py-3" >
                 <div class="card box">
-                    <img src="images/indoors4.jpg" alt="" class="img-fluid pb-1">
+                    <img src="images/indoors14.jpg" alt="" class="img-fluid pb-1">
                     <div class="figure-caption">
                         <h6>Zamioculcas zamiifolia</h6>
                         <h6>Price :Rs 2300</h6>
@@ -222,7 +222,7 @@ include 'includes/check-if-added.php';
 
             <div class="col-md-3 col-6 py-3" >
                 <div class="card box">
-                    <img src="images/indoors1.jpg" alt="" class="img-fluid pb-1"  >
+                    <img src="images/indoors21.jpg" alt="" class="img-fluid pb-1"  >
                     <div class="figure-caption">
                     <h6>Sansevieria</h6>
                     <h6>Price :Rs 1800</h6>
@@ -244,7 +244,7 @@ include 'includes/check-if-added.php';
             </div>
             <div class="col-md-3 col-6 py-3">
                 <div class="card box">
-                    <img src="images/indoors2.jpg" alt="" class="img-fluid pb-1" >
+                    <img src="images/indoors22.jpg" alt="" class="img-fluid pb-1" >
                     <div class="figure-caption">
                     <h6>Epipremnum aureum</h6>
                     <h6>Price :Rs 2500</h6>
@@ -266,7 +266,7 @@ include 'includes/check-if-added.php';
             </div>
             <div class="col-md-3 col-6 py-3">
                 <div class="card box">
-                    <img src="images/indoors3.jpg" alt="" class="img-fluid pb-1">
+                    <img src="images/indoors23.jpg" alt="" class="img-fluid pb-1">
                     <div class="figure-caption">
                         <h6>Chlorophytum comosum</h6>
                         <h6>Price :Rs 500</h6>
@@ -288,7 +288,7 @@ include 'includes/check-if-added.php';
             </div>
             <div class="col-md-3 col-6 py-3" >
                 <div class="card box">
-                    <img src="images/indoors4.jpg" alt="" class="img-fluid pb-1">
+                    <img src="images/indoors24.jpg" alt="" class="img-fluid pb-1">
                     <div class="figure-caption">
                         <h6>Zamioculcas zamiifolia</h6>
                         <h6>Price :Rs 2300</h6>
