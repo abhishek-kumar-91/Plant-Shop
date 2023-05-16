@@ -82,7 +82,8 @@
                 </div>
                 <button type="submit" class="btn btn-secondary btn-block" name="Submit">Login</button>
               </form>
-              <a href="http://">forgot password ?</a>
+              <a href="http://">forgot password ?</a><br>
+              <a href="adminLogin.php">Admin Login</a>
             </div>
             <div class="modal-footer">
               <p class="mr-auto">New User? <a href="#signup" data-toggle="modal" data-dismiss="modal" >signup</a></p>

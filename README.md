@@ -9,6 +9,11 @@ product page
 
 Cart page
 ![Alt text](/cartpage.png)
+
+Admin Panel
+![Alt text](/1.png)
+
+![Alt text](/2.png)
 ## Technologies
 - [PHP](https://www.php.net/docs.php)
 - [Bootstrap](https://getbootstrap.com)
